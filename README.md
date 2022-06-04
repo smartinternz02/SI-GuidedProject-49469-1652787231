@@ -3,4 +3,4 @@ Effective Heart Disease Prediction Using IBM Auto AI Service
 
 
 Link for the demo video:
-https://drive.google.com/file/d/1WjVgxbpztbfe2dUHdfsRaHF_9WxzUvjB/view?usp=sharing
+https://drive.google.com/file/d/17MW9AwAFGTzyU1QEsM77V398-QnvXF85/view?usp=sharing
